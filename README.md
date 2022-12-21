@@ -17,6 +17,9 @@
   
 
 - ❓ Ask me about anything related to HTML, CSS or JS.  
+
+
+- 📫 Reach me at felipegarces1@hotmail.com  
   
 
 <br/>  
