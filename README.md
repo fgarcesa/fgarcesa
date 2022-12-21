@@ -1,7 +1,16 @@
-### Hi there 👋
+<img src="https://media.licdn.com/dms/image/D4D16AQF4ewrXWMh2qA/profile-displaybackgroundimage-shrink_350_1400/0/1667853493141?e=1677110400&v=beta&t=eSrGmE06mXq-QKDzB-Ny9Ka955njjha9YCPF4pYyYQA"
+     alt="Felipe Garcés Profile"
+     style="float: left; margin-right: 10px;" />
+
+# Felipe Garcés Acero 
+## Full Stack web developer
+
+
 
 <!--
 **fgarcesa/fgarcesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+👋
 
 Here are some ideas to get you started:
 
